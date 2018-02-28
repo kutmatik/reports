@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+title: "Reports by kutmatik"
+description: "Simulation reports"
+show_downloads: True
+navigation:
+  - title: KBS - Home
+    url: http://kbsezginel.github.io
+  - title: Kutmatik - reports
+    url: /
