@@ -5,7 +5,7 @@ show_downloads: True
 navigation:
   - title: KBS - Home
     url: http://kbsezginel.github.io
-  - title: Main
+  - title: Index
     url: /
-  - title: Reports
-    url: /reports
+  - title: About
+    url: /about
