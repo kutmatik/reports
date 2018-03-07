@@ -7,6 +7,11 @@ Simulation reports
     <th>Date</th>
   </tr>
   <tr>
+    <td><a href="/reports/1520461810.766451">1520461810.766451</a></td>
+    <td>test</td>
+    <td>2018-03-07 17:30</td>
+  </tr>
+  <tr>
     <td><a href="/reports/1520461595.395898">1520461595.395898</a></td>
     <td>test</td>
     <td>2018-03-07 17:26</td>
